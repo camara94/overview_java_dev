@@ -107,3 +107,7 @@ Pour lancer une application java, on utilise la commande **java** suivi de l'opt
 ## Test partie 1
 <code>javac -d .\target\classes -cp ".\lib\junit-4.13.jar;harcrest-core-1.3.jar;.\target\classes"  src\test\java\com\stardevcgroup\opertions\CalculeTest.java</code>
 ![test](images/test.png)
+
+## Exécution du test unitire
+<code>java -cp ".;.\lib\junit-4.13.jar;.\lib\hamcrest-core-1.3.jar;.\target\classes" org.junit.runner.JUnitCore com.stardevcgroup.opertions.CalculeTest</code>
+![test 2](images/test-2.png)
