@@ -95,3 +95,6 @@ Pour lancer une application java, on utilise la commande **java** suivi de l'opt
 
 ## Compilation de la classe Calcule
 ![com](images/comilationclassecalcule.png)
+
+## Compilation de la classe Maman
+![maman](images/maman-1.png)
