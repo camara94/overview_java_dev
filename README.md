@@ -111,3 +111,11 @@ Pour lancer une application java, on utilise la commande **java** suivi de l'opt
 ## Exécution du test unitire
 <code>java -cp ".;.\lib\junit-4.13.jar;.\lib\hamcrest-core-1.3.jar;.\target\classes" org.junit.runner.JUnitCore com.stardevcgroup.opertions.CalculeTest</code>
 ![test 2](images/test-2.png)
+
+## Création du jar non exécutable avec la ligne de commande
+Pour cela, on rend dans le dossier où se trouve les fichiers d'extension **.class** puis <br/>
+<code> jar cfv nomDuFichier.jar LesIncludesDansLeJar</code>
+exemple:<br/>
+<code>cd target/classes</code> en suite<br/>
+<code>jar cfv ../mawatta.jar .</code>
+![jarnoexecutable](images/mawatajar.png)
