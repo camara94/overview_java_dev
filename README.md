@@ -41,3 +41,5 @@ La machine virtuelle permet notamment :
 * l'interprétation du bytecode
 * l'interaction avec le système d'exploitation
 * la gestion de sa mémoire grâce au ramasse-miettes
+## JDK vs JRE vs JVM
+![jdkvsjrevsjvm](images/jdkvsjrevsjvm.png)
