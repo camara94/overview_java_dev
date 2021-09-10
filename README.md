@@ -134,7 +134,7 @@ nous allons créer un fichier dans le dossier **resources** de préference et on
 ![jar](images/jarexec.png)
 
 ## Exécution du jar exécutable 
-<code>cd ..</code>
-<code>java -jar mawatta.jar</code>
-<code>java -jar mawatta.jar 25 36</code>
+<code>cd ..</code><br/>
+<code>java -jar mawatta.jar</code><br />
+<code>java -jar mawatta.jar 25 36</code><br/>
 ![jar exec](images/executiondujarexcdam.png)
