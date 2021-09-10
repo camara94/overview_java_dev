@@ -57,3 +57,11 @@ Tout d'abord l'avantage des variables d'environnement est de nous permettre d'ex
   ## Création manuelle de la structure d'un projet java
   pour voir l'arborescence du projet <code>tree</code>
   ![tree](images/tree.png)
+
+## Création du package sans IDE
+
+* on va dans java puis on crée un premier dossier qui correspond au top level de notre nom de domaine et doit être tout en miniscule, dans notre cas c'est **com** 
+  <code>mkdir src/main/java/com</code>
+puis un autre sous dossier dans **com** qui fait réference au nom du domaine **stardevcgroup**
+<code>mkdir src/main/java/com/stardevcgroup</code>
+![package](images/package.png)
