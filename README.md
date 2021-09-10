@@ -54,3 +54,6 @@ Tout d'abord l'avantage des variables d'environnement est de nous permettre d'ex
   * javac pour dire java compiler
   * java pour l'execution de java
   ![java](images/java.png)
+  ## Création manuelle de la structure d'un projet java
+  pour voir l'arborescence du projet <code>tree</code>
+  ![tree](images/tree.png)
