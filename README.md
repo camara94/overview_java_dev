@@ -65,3 +65,8 @@ Tout d'abord l'avantage des variables d'environnement est de nous permettre d'ex
 puis un autre sous dossier dans **com** qui fait réference au nom du domaine **stardevcgroup**
 <code>mkdir src/main/java/com/stardevcgroup</code>
 ![package](images/package.png)
+
+## Création de la première classe
+Avant de nous lancer dans le code, il faut tout d'abord noter que notre classe doit commencer par une majuscule, le fichier java doit java doit avoir le même nom que la classe et pas d'accent encore ni caractères spéciaux.
+<code> touch src/main/java/com/stardevcgroup/Maman.java</code>
+![java](images/fichierjava.png)
