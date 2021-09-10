@@ -123,3 +123,11 @@ exemple:<br/>
 ## Exécution du jar non exécutable
 <code>java -cp mawatta.jar com.stardevcgroup.Maman 45 78</code>
 ![execution](images/executiondujarnoexec.png)
+
+## Création d'un jar exécutable
+nous allons créer un fichier dans le dossier **resources** de préference et on va nommer le fichier **MANIFEST.txt** et à la première ligne de ce fichier nous allons ajouter cette instruction:
+* Main-Class: package de la classe main suivi du nom de la class Main
+  Exemple: <br/>
+  <code>Main-Class: com.stardevcgroup.Maman</code>
+* puis on génère la classe principale avec cette commande<br />
+  <code>jar cfvm ../mawatta.jar ../../src/main/resources/MANIFEST.txt . ../../lib/</code>
