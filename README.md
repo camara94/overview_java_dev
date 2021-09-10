@@ -74,4 +74,6 @@ Avant de nous lancer dans le code, il faut tout d'abord noter que notre classe d
 ## Création de la classe Java
 prémière chose à faire dans fichier java est d'indiquer le package 
 <code>package com.stardevcgroup;</code>
-![classe](images/classe.png)
+![classe](images/classes.png)
+
+## Compilation de la classe java
