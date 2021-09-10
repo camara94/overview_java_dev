@@ -29,3 +29,6 @@ Pour pouvoir faire du dévéloppement java, il faut absolument avoir le kit de d
 et Java Runtime Environment(JRE)
 ## Le Java Development Kit (JDK)
 désigne un ensemble de bibliothèques logicielles de base du langage de programmation Java, ainsi que les outils avec lesquels le code Java peut être compilé, transformé en bytecode destiné à la machine virtuelle Java. [Source Wikipédia](https://fr.wikipedia.org/wiki/Java_Development_Kit)
+## Java Runtime Environment
+**Java Runtime Environment (JRE)**
+est une couche logicielle qui s'exécute sur le logiciel du système d'exploitation d'un ordinateur et fournit les bibliothèques de classes et d'autres ressources dont un programme Java spécifique a besoin pour s'exécuter.[Source IBM](https://www.ibm.com/cloud/learn/jre)
