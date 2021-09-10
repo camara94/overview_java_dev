@@ -22,3 +22,8 @@ Dans cette formation, je vais essayer de revoir les bases fondamentales du déve
    1. linux
    2. docker
    3. jenkins
+
+## Qu'est ce qu'il faut pour dévélopper les application java dans sa machine
+Pour pouvoir faire du dévéloppement java, il faut absolument avoir le kit de dévéloppement java ou Java development Kit (JDK), pour cela il est conseiller d'avoir JDK 8 car il est jugé stable pour ces raisons la plupart des entreprises l'adoptent et il est également compatible avec  les versions supérieures.
+[ici vous pouvez le JDK 8](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html)
+et Java Runtime Environment(JRE)
