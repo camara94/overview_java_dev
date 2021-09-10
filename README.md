@@ -27,3 +27,5 @@ Dans cette formation, je vais essayer de revoir les bases fondamentales du déve
 Pour pouvoir faire du dévéloppement java, il faut absolument avoir le kit de dévéloppement java ou Java development Kit (JDK), pour cela il est conseiller d'avoir JDK 8 car il est jugé stable pour ces raisons la plupart des entreprises l'adoptent et il est également compatible avec  les versions supérieures.
 [ici vous pouvez le JDK 8](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html)
 et Java Runtime Environment(JRE)
+## Le Java Development Kit (JDK)
+désigne un ensemble de bibliothèques logicielles de base du langage de programmation Java, ainsi que les outils avec lesquels le code Java peut être compilé, transformé en bytecode destiné à la machine virtuelle Java. [Source Wikipédia](https://fr.wikipedia.org/wiki/Java_Development_Kit)
