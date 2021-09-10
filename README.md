@@ -104,3 +104,6 @@ Pour lancer une application java, on utilise la commande **java** suivi de l'opt
 
 ## Exécution de la classe  Maman avec les arguments
 ![arguments](images/execmamanavecarguments.png)
+## Test partie 1
+<code>javac -d .\target\classes -cp ".\lib\junit-4.13.jar;harcrest-core-1.3.jar;.\target\classes"  src\test\java\com\stardevcgroup\opertions\CalculeTest.java</code>
+![test](images/test.png)
