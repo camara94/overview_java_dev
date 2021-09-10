@@ -43,3 +43,9 @@ La machine virtuelle permet notamment :
 * la gestion de sa mémoire grâce au ramasse-miettes
 ## JDK vs JRE vs JVM
 ![jdkvsjrevsjvm](images/jdkvsjrevsjvm.png)
+## Variables d'environnement Java
+Tout d'abord l'avantage des variables d'environnement est de nous permettre d'exécuter les application en ligne de commande
+* **JAVA_HOME**
+  ![java_home](images/java_home.png)
+* **path** pour toutes les variables d'environnement
+  ![path](images/path.png)
