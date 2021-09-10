@@ -49,3 +49,8 @@ Tout d'abord l'avantage des variables d'environnement est de nous permettre d'ex
   ![java_home](images/java_home.png)
 * **path** pour toutes les variables d'environnement
   ![path](images/path.png)
+
+  ## Quelques commande
+  * javac pour dire java compiler
+  * java pour l'execution de java
+  ![java](images/java.png)
