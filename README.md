@@ -132,3 +132,9 @@ nous allons créer un fichier dans le dossier **resources** de préference et on
 * puis on génère la classe principale avec cette commande<br />
   <code>jar cfvm ../mawatta.jar ../../src/main/resources/MANIFEST.txt . ../../lib/</code>
 ![jar](images/jarexec.png)
+
+## Exécution du jar exécutable 
+<code>cd ..</code>
+<code>java -jar mawatta.jar</code>
+<code>java -jar mawatta.jar 25 36</code>
+![jar exec](images/jarexec.png)
