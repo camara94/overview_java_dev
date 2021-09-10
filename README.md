@@ -131,3 +131,4 @@ nous allons créer un fichier dans le dossier **resources** de préference et on
   <code>Main-Class: com.stardevcgroup.Maman</code>
 * puis on génère la classe principale avec cette commande<br />
   <code>jar cfvm ../mawatta.jar ../../src/main/resources/MANIFEST.txt . ../../lib/</code>
+![jar](images/jarexec.png)
