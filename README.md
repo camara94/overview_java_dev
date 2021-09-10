@@ -137,4 +137,4 @@ nous allons créer un fichier dans le dossier **resources** de préference et on
 <code>cd ..</code>
 <code>java -jar mawatta.jar</code>
 <code>java -jar mawatta.jar 25 36</code>
-![jar exec](images/jarexec.png)
+![jar exec](images/executiondujarexcdam.png)
