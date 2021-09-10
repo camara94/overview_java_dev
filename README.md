@@ -86,3 +86,6 @@ Pour compiler notre classe, on se rend dans le dossier où elle se situe puis no
 Pour lancer une application java, on utilise la commande **java** suivi de l'option **-cp** pour dire **classpath**<br />
 <code>java -cp target/classes/ com.stardevcgroup.Maman</code>
 ![execution](images/execution.png)
+
+## Création un autre package
+![operation](images/operation.png)
