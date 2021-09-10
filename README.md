@@ -119,5 +119,7 @@ exemple:<br/>
 <code>cd target/classes</code> en suite<br/>
 <code>jar cfv ../mawatta.jar .</code>
 ![jarnoexecutable](images/mawatajar.png)
+
 ## Exécution du jar non exécutable
+<code>java -cp mawatta.jar com.stardevcgroup.Maman 45 78</code>
 ![execution](images/executiondujarnoexec.png)
