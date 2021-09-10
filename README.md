@@ -99,5 +99,8 @@ Pour lancer une application java, on utilise la commande **java** suivi de l'opt
 ## Compilation de la classe Maman
 ![maman](images/maman-1.png)
 
-## Exécution de la classe  Maman avec les variable
+## Exécution de la classe  Maman avec les variables
 ![resultat](images/resultat.png)
+
+## Exécution de la classe  Maman avec les arguments
+![arguments](images/execmamanavecarguments.png)
