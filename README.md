@@ -32,3 +32,12 @@ désigne un ensemble de bibliothèques logicielles de base du langage de program
 ## Java Runtime Environment
 **Java Runtime Environment (JRE)**
 est une couche logicielle qui s'exécute sur le logiciel du système d'exploitation d'un ordinateur et fournit les bibliothèques de classes et d'autres ressources dont un programme Java spécifique a besoin pour s'exécuter.[Source IBM](https://www.ibm.com/cloud/learn/jre)
+
+## java Virtual Machine (JVM)
+La machine virtuelle Java ou JVM (Java Virtual Machine) est un environnement d'exécution pour applications Java.
+
+C'est un des éléments les plus importants de la plate-forme Java. Elle assure l'indépendance du matériel et du système d'exploitation lors de l'exécution des applications Java. Une application Java ne s'exécute pas directement dans le système d'exploitation mais dans une machine virtuelle qui s'exécute dans le système d'exploitation et propose une couche d'abstraction entre l'application Java et ce système.<br>[Source Jean-Michel DOUDOUX](https://www.jmdoudoux.fr/java/dej/chap-jvm.htm)
+La machine virtuelle permet notamment :
+* l'interprétation du bytecode
+* l'interaction avec le système d'exploitation
+* la gestion de sa mémoire grâce au ramasse-miettes
