@@ -77,3 +77,7 @@ prémière chose à faire dans fichier java est d'indiquer le package
 ![classe](images/classes.png)
 
 ## Compilation de la classe java
+Pour compiler notre classe, on se rend dans le dossier où elle se situe puis nous spécifions là où nous voulons que la compilation place la sortie avec la commande suivante
+
+<code>javac src/main/java/com/stardevcgroup/Maman.java -d target/classes/</code>
+![classe](images/fichierclasse.png)
