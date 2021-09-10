@@ -66,7 +66,12 @@ puis un autre sous dossier dans **com** qui fait réference au nom du domaine **
 <code>mkdir src/main/java/com/stardevcgroup</code>
 ![package](images/package.png)
 
-## Création de la première classe
+## Création du fichier java
 Avant de nous lancer dans le code, il faut tout d'abord noter que notre classe doit commencer par une majuscule, le fichier java doit java doit avoir le même nom que la classe et pas d'accent encore ni caractères spéciaux.
 <code> touch src/main/java/com/stardevcgroup/Maman.java</code>
 ![java](images/fichierjava.png)
+
+## Création de la classe Java
+prémière chose à faire dans fichier java est d'indiquer le package 
+<code>package com.stardevcgroup;</code>
+![classe](images/classe.png)
